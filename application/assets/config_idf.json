@@ -1,0 +1,23 @@
+{
+  "services": {
+    "mqtt": {
+      "available": true,
+      "endPoint": "wss://idf.hisqool.com/mqtt",
+      "username": "desktop",
+      "password": "U2FsdGVkX1+9aMhsKCewfYLLvk3eygfvSZvzPJT1xRY=",
+      "topic": "/hisqool/devices/",
+      "keepAlive": 120
+    },
+    "qauldron": {
+      "available": true,
+      "endPoint": "https://idf.hisqool.com/qauldron/",
+      "api_key": "U2FsdGVkX1+9iq84X3XTRbZIIOUQjF1h44PNfzMQR3ZaNfpFbku/NH4MinRY1eEUSMdJD7cHkyX3M5quSvHUCA=="
+    },
+    "logs": {
+      "available": true,
+      "endPoint": "https://idf.hisqool.com/logs/",
+      "api_key": "U2FsdGVkX1+9iq84X3XTRbZIIOUQjF1h44PNfzMQR3ZaNfpFbku/NH4MinRY1eEUSMdJD7cHkyX3M5quSvHUCA=="
+    }
+  },
+  "serviceAlternatives": {}
+}

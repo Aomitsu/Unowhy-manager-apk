@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="blocked_on_application_message">
+        <item quantity="other">Votre terminal est limité aux applications suivantes :</item>
+        <item quantity="one">"Votre terminal est limité à l'application suivante :"</item>
+    </plurals>
+    <plurals name="downloads_plurals">
+        <item quantity="other">%d téléchargements en cours...</item>
+        <item quantity="zero">Téléchargements terminés</item>
+        <item quantity="one">Un téléchargement en cours...</item>
+    </plurals>
+</resources>
